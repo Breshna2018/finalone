@@ -1,4 +1,4 @@
-.App {
+.app {
   text-align: center;
 }
 
@@ -34,5 +34,15 @@
   }
   to {
     transform: rotate(360deg);
+  }
+  .nav-links{
+
+
+    list-style: none;
+padding: 0;
+    margin: 0;
+
+    display:flex;
+    
   }
 }

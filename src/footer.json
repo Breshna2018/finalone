@@ -1,0 +1,61 @@
+[
+    {
+      "id": 1,
+      "title": "Introduction to HTML and CSS",
+      "instructor": "John Doe",
+      "duration": "4 weeks",
+      "image": "https://example.com/html_css_image.jpg"
+    },
+    {
+      "id": 2,
+      "title": "JavaScript Fundamentals",
+      "instructor": "Jane Smith",
+      "duration": "6 weeks",
+      "image": "https://example.com/javascript_image.jpg"
+    },
+    {
+      "id": 3,
+      "title": "React.js Essentials",
+      "instructor": "Alex Johnson",
+      "duration": "8 weeks",
+      
+      "image":"laptop.jpg"
+    },
+  {
+    "id": 1,
+    "title": "Introduction to HTML and CSS",
+    "instructor": "John Doe",
+    "duration": "4 weeks",
+    "image": "books.jpg"
+  },
+  {
+    "id": 2,
+    "title": "JavaScript Fundamentals",
+    "instructor": "Jane Smith",
+    "duration": "6 weeks",
+    "image": "https://example.com/javascript_image.jpg"
+  },
+  {
+    "id": 3,
+    "title": "React.js Essentials",
+    "instructor": "Alex Johnson",
+    "duration": "8 weeks",
+    "image": "coding.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Node.js for Backend Development",
+    "instructor": "Michael Brown",
+    "duration": "6 weeks",
+    "image": "https://example.com/node_js_image.jpg"
+  },
+
+    
+    {
+      "id": 4,
+      "title": "Node.js for Backend Development",
+      "instructor": "Michael Brown",
+      "duration": "6 weeks",
+      "image": "https://example.com/node_js_image.jpg"
+    }
+  ]
